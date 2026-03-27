@@ -17,8 +17,8 @@ roll numbers in to that file.
 ```
 /*
 C program to create a file named "Hospital.txt" and display messages on successful creation, opening, and closing of the file.
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: THEEBAN S
+RegisterNumber:  212222063015
 */
 #include <stdio.h>
 int main()
